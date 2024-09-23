@@ -1,0 +1,10 @@
+Writing using async file system, fsHi ThereSat Sep 21 20249/21/2024
+9/21/2024
+Sat Sep 21 2024
+1726915769870 Hey there
+${Date.now()} Hey there
+1726915788249 Hey there
+Sat Sep 21 2024 Hey there
+Sat Sep 21 2024 Hey there
+1726915822149 Hey there
+1726915825479 Hey there
